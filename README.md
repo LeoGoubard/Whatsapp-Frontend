@@ -1,5 +1,5 @@
 # Whatsapp-Clone
-This project was build with a Backend, on another repository at this adress : https://github.com/LeoGoubard/Whatsapp-Clone-backend
+This project was build with a Backend, on another repository at this adress : https://github.com/LeoGoubard/Whatsapp-Backend
 
 ## Available Script
 
